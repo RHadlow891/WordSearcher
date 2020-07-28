@@ -1,0 +1,5 @@
+Start of List
+Next word is: ate
+Next word is: hate
+End of List
+
